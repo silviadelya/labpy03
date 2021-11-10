@@ -88,7 +88,7 @@
 
 <h3>-Output Program-</h3>
 
-![img] screenshot/2-2.png
+![Gambar 4](screenshot/2-2.png)
 
 <h2>Program 1</h2>
 

@@ -11,7 +11,7 @@
 
 <h3>-Program-</h3>
 
-![img] screenshot/1.png
+![Gambar 1](screenshot/1.png)
 
 <h3>Penjelasan :</h3>
 
@@ -29,15 +29,15 @@
 	
     ```bash
 		for i in range(nilai_n):
-    			while True:
-       				 nilai_n = random()
-       				 if nilai_n < 0.5:
-           					 break
+    		while True:
+       			nilai_n = random()
+       			if nilai_n < 0.5:
+           			break
 	```
 4. Menampilkan hasil output
 	```bash
 		    print(f"Data ke-{i+1}","=", nilai_n)
-    print("Selesai")	
+        print("Selesai")	
 	```
 <h3>-Output Program-</h3>
 

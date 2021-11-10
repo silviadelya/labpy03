@@ -52,7 +52,7 @@
 
 <h3>-Program-</h3>
 
-![img] screenshot/2-1.png
+![Gambar 3](screenshot/2-1.png)
 
 <h3>Penjelasan :</h3>
 

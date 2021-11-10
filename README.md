@@ -41,7 +41,7 @@
 	```
 <h3>-Output Program-</h3>
 
-![img] screenshot
+![img] screenshot/2.png
 
 <h2>Latihan 2</h2>
 

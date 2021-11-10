@@ -102,7 +102,7 @@ bulan berjalan usahanya.</p>
 
 <h3>-Program-</h3>
 
-![img] screenshot/3-2.png
+![Gambar 5](screenshot/3-2.png)
 
 <h3>Penjelasan :</h3>
 

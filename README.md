@@ -144,7 +144,7 @@ bulan berjalan usahanya.</p>
 
 <h3>-Output Program-</h3>
 
-![img] screenshot/3-1.png
+![Gambar 6](screenshot/3-1.png)
 
 
 <h3>Sekian Terimakasih</h3>

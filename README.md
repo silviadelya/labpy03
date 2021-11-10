@@ -52,9 +52,39 @@
 
 <h3>-Program-</h3>
 
-![img] screenshot/
+![img] screenshot/2-1.png
 
 <h3>Penjelasan :</h3>
+
+1. Agar dapat melakukan pengulangan secara terus menerus selama kondisi bernilai "True", gunakan <b>while</b>.
+
+    ```bash
+        while True:
+    ```
+
+2. Masukkan variable bilangan bulat (integer).
+
+    ```bash
+        angka = int(input("Masukkan Angka:"))
+    ```
+
+3. Jika "a" (nilai a = 0) kurang dari "angka" (variable input) dan "a" bernilai sama dengan "angka", maka program akan terus berjalan. 
+
+    ```bash
+        if a < angka:
+                a = angka
+    ```
+4. Jika "angka" nilainya sama dengan "0" maka program akan terhenti.
+
+    ```bash
+        if angka == 0:
+                break
+    ```
+5. Hasil output angka terbesar.
+
+    ```bash
+        print("Angka Terbesar:", a)
+    ```
 
 <h3>-Output Program-</h3>
 

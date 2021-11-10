@@ -102,10 +102,49 @@ bulan berjalan usahanya.</p>
 
 <h3>-Program-</h3>
 
-![img] screenshot/
+![img] screenshot/3-2.png
 
 <h3>Penjelasan :</h3>
+
+1. Menampilkan modal awal.
+
+    ```bash
+        modal_awal = 100000000
+        print("Modal awal:", modal_awal)
+    ```
+2. Melakukan perulangan variable a dengan range 1-9.
+
+    ```bash
+        for a in range(1,9):
+    ```
+
+3. Menghitung laba dari bulan pertama hingga bulan kedelapan.
+
+    ```bash
+            if a >= 1 and a <= 2:
+                hasil_pertama = modal_awal*0
+                print("Laba bulan ke-", a,"=", hasil_pertama)
+            if a >= 3 and a <= 4:
+                hasil_kedua = modal_awal*1/100
+                print("Laba bulan ke-", a,"=", hasil_kedua)
+            if a >= 5 and a <= 7:
+                hasil_ketiga = modal_awal*5/100
+                print("Laba bulan ke-", a,"=", hasil_ketiga)
+            if a == 8:
+                hasil_keempat = modal_awal*2/100
+                print("Laba bulan ke-", a,"=", hasil_keempat)
+    ```
+
+4. Menjumlahkan total keuntungan dari laba yang didapat, dari bulan pertama hingga bulan kedelapan. Untuk menghitungnya sesuaikan dengan script code yang dilakukan pada program perulangan.
+
+    ```bash
+        total = (hasil_pertama+hasil_pertama+hasil_kedua+hasil_kedua+hasil_ketiga+hasil_ketiga+hasil_ketiga+hasil_keempat)
+        print("Total Keuntungan:", total)
+    ```
 
 <h3>-Output Program-</h3>
 
 ![img] screenshot/
+
+
+<h3>Sekian Terimakasih</h3>

@@ -41,7 +41,7 @@
 	```
 <h3>-Output Program-</h3>
 
-![img] screenshot/2.png
+![Gambar 2](screenshot/2.png)
 
 <h2>Latihan 2</h2>
 
@@ -52,13 +52,13 @@
 
 <h3>-Program-</h3>
 
-![img] screenshot
+![img] screenshot/
 
 <h3>Penjelasan :</h3>
 
 <h3>-Output Program-</h3>
 
-![img] screenshot
+![img] screenshot/
 
 <h2>Program 1</h2>
 
@@ -72,10 +72,10 @@ bulan berjalan usahanya.</p>
 
 <h3>-Program-</h3>
 
-![img] screenshot
+![img] screenshot/
 
 <h3>Penjelasan :</h3>
 
 <h3>-Output Program-</h3>
 
-![img] screnshot
+![img] screenshot/
